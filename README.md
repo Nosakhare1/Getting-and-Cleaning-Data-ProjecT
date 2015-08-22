@@ -12,4 +12,4 @@ v. Merges the two datasets
 vi. Converts the activity and subject columns into factors
 vii. Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
 
-The final result exsist in the file tidy.txt.
+The final result exsist in the file tidy.txt. 
